@@ -1,5 +1,5 @@
-version: 0.0.0
+version: 1.0.0
 files:
   README.md:
     - '# callsites v%.%.%'
-    - https://raw.githubusercontent.com/kt3k/callsites/v%.%.%/mod.ts
+    - 'https://raw.githubusercontent.com/kt3k/callsites/v%.%.%/mod.ts'

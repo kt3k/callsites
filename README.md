@@ -1,4 +1,4 @@
-# callsites v0.0.0
+# callsites v1.0.0
 
 > A Deno utility to get call sites information from the
 > [V8 stack trace API](https://v8.dev/docs/stack-trace-api).
@@ -11,7 +11,7 @@ Note: This tool is forked from
 In Deno:
 
 ```ts
-import callsites from "https://raw.githubusercontent.com/kt3k/callsites/v0.0.0/mod.ts";
+import callsites from "https://raw.githubusercontent.com/kt3k/callsites/v1.0.0/mod.ts";
 
 const sites = callsites();
 console.log(sites[0].getFileName());
